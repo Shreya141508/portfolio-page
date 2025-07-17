@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shreya's Portfolio</title>
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>🌟 Welcome to My Portfolio</h1>
+    <nav>
+      <a href="#about">About</a> |
+      <a href="#projects">Projects</a> |
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <hr>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>👩‍💻 About Me</h2>
+    <img src="shreya p.jpg" alt="Shreya's Photo" width="200">
+    <p>Hello! I'm <strong>Shreya</strong>, a Computer Science and Engineering student at KIET under AKTU.</p>
+    <p>A passionate web devloper ,driven by desire to create website that not only look appealing but also perform seamlessly.Always curious and eager to enhance site performance. Enjoys transforming idas into real,functional websites and remains commited to contiuous growth and improvement as a developer.   🌐✨</p>
+  </section>
+
+  <hr>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>🚀 My Projects</h2>
+    <ul>
+      <li><strong>Strix:</strong> A real-time civic issue reporting web app.</li>
+      <li><strong>MoonDate:</strong> A website that shows how the moon looked on your birthday.</li>
+      <li><strong>My Notes:</strong> A public note-sharing website with anonymous suggestions.</li>
+      <li><strong>Task tracker:</strong>A public app which add,delete and manage your daily task.</li>
+      <li><strong>Age calculator:</strong> A frontend tool which calculates a user's exact age in year ,months and days from there birth-date.</li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>📬 Contact Me</h2>
+    <p><strong>Phone:</strong> <a href="tel:+916307125175">6307125175</a></p>
+    <p><strong>Email:</strong> <a href="shreyasi9838@gmail.com">shreyasi9838@gmail.com</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shreya-singh-147154292" target="_blank">shreya's linkedin id</a></p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/Shreya141508" target="_blank">Shreya's git account</a></p>
+  </section>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Shreya. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
